@@ -5,7 +5,7 @@ student_manager.exe
 # Ignore object files
 *.o
 
-# Ignore dependency files (if using a makefile)
+# Ignore dependency files
 *.d
 
 # Ignore core dumps
@@ -26,3 +26,4 @@ build/
 
 # Ignore student data files
 *.dat
+
